@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-## Part of Free Codecamp's Back End Development Certification - Build Web Apps with Expressjs challenge
-=======
+
 ## Part of FreeCodecamp's Back End Development Certification - Build Web Apps with Expressjs challenge
->>>>>>> e7e5590b87deaae8cac6af9eb45c251ad9ccb35f
 
 You can view this Node School module's source code on GitHub at https://github.com/azat-co/expressworks.
 
