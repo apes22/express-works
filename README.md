@@ -1,22 +1,22 @@
+##Part of Free Codecamp's Back End Development Certification - Build Web Apps with Expressjs challenge
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+You can view this Node School module's source code on GitHub at https://github.com/azat-co/expressworks.
 
+My solutions to NodeSchool's expressworks module:
+Completed the following challenges:
 
-Welcome to your Node.js project on Cloud9 IDE!
+1) "Hello World!" in hello-world.js
 
-This chat example showcases how to use `socket.io` with a static `express` server.
+2) "Static" in static.js
 
-## Running the server
+3) "Jade" (Jade has been renamed to Pug) in jade.js
 
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
+4) "Good Old Form" in good-old-form.js
 
-2) Alternatively you can launch the app from the Terminal:
+5) "Stylish CSS" in stylish.js
 
-    $ node server.js
+6) Param Pam Pam" in params.js
 
-Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+7) "What's In Query" query.js
+
+8) "JSON Me" in json-me.js
